@@ -81,3 +81,4 @@ export class HomeComponent implements AfterViewInit {
     return this.auth.isLoggedIn();
   }
 }
+
