@@ -22,7 +22,7 @@
           "builder": "@angular/build:application",
           "options": {
             "browser": "src/main.ts",
-            "outputPath": "dist/prueba-tecnica/browser",
+            "outputPath": "dist/prueba-tecnica",
             "tsConfig": "tsconfig.app.json",
             "inlineStyleLanguage": "scss",
             "assets": [
